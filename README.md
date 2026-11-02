@@ -1,5 +1,5 @@
 # LAB3-1
-popzeljko
+NJ
 DR
-
-
+igord
+DR

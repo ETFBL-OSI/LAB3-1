@@ -25,7 +25,7 @@ double podijeli(double a, double b)
 {
      double kolicnik;
 
-    kolicnik = a/b:
+    kolicnik = a/b;
 
     return kolicnik;
 }
